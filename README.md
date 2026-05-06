@@ -16,9 +16,9 @@ Before running the code, keep these files in the same folder:
 | File | Link |
 | :--- | :--- |
 | **MIA.py** | (Local Script) |
-| **pub.pt** | [View/Download File](https://github.com/YourUsername/YourRepo/blob/main/pub.pt) |
-| **priv.pt** | [View/Download File](https://github.com/YourUsername/YourRepo/blob/main/priv.pt) |
-| **model.pt** | [View/Download File](https://github.com/YourUsername/YourRepo/blob/main/model.pt) |
+| **pub.pt** | [View/Download File](https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/pub.pt) |
+| **priv.pt** | [View/Download File](https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/priv.pt) |
+| **model.pt** | [View/Download File](https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/model.pt) |
 | **requirements.txt** | (Local Dependencies) |
 
 
